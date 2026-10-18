@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.log
+*.tsbuildinfo
+.env*
+.DS_Store
+test-results/
+playwright-report/
+
+
+.venv/
+venv/
+__pycache__/
